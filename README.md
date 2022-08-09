@@ -1,3 +1,6 @@
+Technologies and Concepts: React - Hooks, Refs, JSX,
+HTML, CSS, SASS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
